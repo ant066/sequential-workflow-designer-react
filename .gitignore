@@ -1,1 +1,9 @@
 LICENSE
+.yarn/
+build/
+node_modules/
+coverage/
+.vscode/
+lib/
+dist/
+yarn-*.log

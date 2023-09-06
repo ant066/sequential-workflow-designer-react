@@ -1,5 +1,5 @@
 {
-	"name": "sequential-workflow-designer-react",
+	"name": "sequential-workflow-designer-react-17",
 	"description": "React wrapper for Sequential Workflow Designer component.",
 	"version": "0.14.1",
 	"type": "module",
@@ -25,7 +25,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/nocode-js/sequential-workflow-designer.git"
+		"url": "https://github.com/ant066/sequential-workflow-designer-react.git"
 	},
 	"files": [
 		"lib/"
