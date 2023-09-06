@@ -69,7 +69,7 @@ export function SequentialWorkflowDesigner<TDefinition extends Definition>(props
 	const customActionHandlerRef = useRef(props.customActionHandler);
 
 	const designerRef = useRef<Designer<TDefinition> | null>(null);
-	const editorRootRef = useRef<ReactDOM.Root | null>(null);
+	const editorRootRef = useRef<Element | null>(null);
 
 	const definition = props.definition;
 	const selectedStepId = props.selectedStepId;
